@@ -16,7 +16,7 @@
     "@fiahfy/eslint-config-vue": "^0.0.17",
     "@fiahfy/prettier-config": "^0.0.2",
     "@fiahfy/tsconfig": "^0.0.1",
-    "@types/chrome": "^0.0.188",
+    "@types/chrome": "^0.0.190",
     "@types/color": "^3.0.3",
     "concurrently": "^7.2.1",
     "copy-webpack-plugin": "^11.0.0",
