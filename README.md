@@ -1,6 +1,12 @@
+# Note
+
+This is a forked repository. Original: [fiahfy/youtube-live-chat-flow](https://github.com/fiahfy/youtube-live-chat-flow)
+
+---
+
 # Flow Chat for YouTube Live
 
-![badge](https://github.com/fiahfy/youtube-live-chat-flow/workflows/Web%20Extension%20CI/badge.svg)
+[![Test](https://github.com/eggplants/youtube-live-chat-flow/actions/workflows/test.yml/badge.svg)](https://github.com/eggplants/youtube-live-chat-flow/actions/workflows/test.yml) [![Create release](https://github.com/eggplants/youtube-live-chat-flow/actions/workflows/extension.yml/badge.svg)](https://github.com/eggplants/youtube-live-chat-flow/actions/workflows/extension.yml)
 
 > Chrome Extension for Flow Chat Messages on YouTube Live.
 
@@ -30,6 +36,9 @@
 ```bash
 # install dependencies
 yarn
+
+# install git hooks
+npx husky install
 
 # watch files changed and reload extension
 yarn dev
