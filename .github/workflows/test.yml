@@ -1,12 +1,9 @@
-name: Create release
+name: Test
 
-on:
-  push:
-    tags:
-      - 'v*'
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
-  release:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,8 +14,3 @@ jobs:
           cache: npm
       - run: yarn
       - run: yarn test
-      - run: yarn package
-      - uses: softprops/action-gh-release@v1
-        with:
-          draft: true
-          files: dist/archive.zip
