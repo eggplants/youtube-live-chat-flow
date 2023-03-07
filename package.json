@@ -24,7 +24,7 @@
     "eslint": "^8.35.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
-    "husky": "^8.0.1",
+    "husky": "^8.0.3",
     "mv3-hot-reload": "^0.2.7",
     "prettier": "^2.7.1",
     "sass": "~1.58.3",
