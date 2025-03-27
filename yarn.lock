@@ -59,10 +59,10 @@
   resolved "https://registry.yarnpkg.com/@fiahfy/semaphore/-/semaphore-0.0.2.tgz#f3121454fd03ac1ba35ee6cf6b2ae2d1a0d7d117"
   integrity sha512-dkxuLmntMXqE6VaLE7PnJiCMqGKm3P7B7PQcwNqIj7rrAYXT00MSYnBQ66TDrrq6vY2gmbkOqc7KB8gCsLQUdw==
 
-"@fiahfy/tsconfig@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@fiahfy/tsconfig/-/tsconfig-0.0.1.tgz#e7edc0dc4e2bb4a1c40ec4c20bbfb024290c59ef"
-  integrity sha512-RrQuxBpQp4LWXVt/jqIKrnqj0HQljpRZL6f7tf7NSs6qh1GcX5QAWgc7sY/u4/AWxhkCwVGVTWupKmF+72vrMA==
+"@fiahfy/tsconfig@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@fiahfy/tsconfig/-/tsconfig-0.0.2.tgz#c4950a18ac2ee756ba7468e746cb4f710e486230"
+  integrity sha512-xd7s8E0KkCnG952csB3a57MSvH+lnW8c+HEVydCPOdAH65r1mu66ApoJPIfPucD/4DiHG4Bcpjre6ZtjVyBSVQ==
 
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"

@@ -15,7 +15,7 @@
   "devDependencies": {
     "@fiahfy/eslint-config-vue": "^0.0.17",
     "@fiahfy/prettier-config": "^0.0.2",
-    "@fiahfy/tsconfig": "^0.0.1",
+    "@fiahfy/tsconfig": "^0.0.2",
     "@types/chrome": "^0.0.219",
     "@types/color": "^3.0.3",
     "concurrently": "^7.3.0",
